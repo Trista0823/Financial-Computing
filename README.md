@@ -7,8 +7,7 @@
 - The stocks and their corresponding price information for each group should be stored in a STL map, with stock symbol as its keys.
 - The expected AAR, AAR SD, and expected CAAR and CAAR SD for 3 groups are presented in a matrix. The row of the matrix is the group#, matrix columns are for AAR, AAR-SD, CAAR, CAAR-SD
 - Use gnuplot(MAC) to show the CAAR from all 3 groups in one graph.              
- <br/> 
- <br/>    
+ <br/>  
  
 ## Functions:
 - Retrieve historical price data for all selected stocks. Parse the retrieved data for dates and adjusted closing prices.
@@ -16,7 +15,6 @@
 - Populate the stock maps and AAR/CAAR matrix.
 -  Show an Excel or gnuplot graph with CAAR for all 3 groups.       
  <br/> 
- <br/>  
  
 ## Menu:
 - Retrieve historical price data for all stocks.
@@ -24,7 +22,6 @@
 - Show AAR, AAR-SD, CAAR and CAAR-SD for one group.
 - Show the gnuplot graph with CAAR for all 3 groups.
 - Exit program.     
- <br/> 
  <br/> 
 
 ## Calculation Details:
