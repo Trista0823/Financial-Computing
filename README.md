@@ -43,7 +43,7 @@ Surprise % = (Actual EPS – EPS Estimate) ÷ EPS Estimate
 Using adjusted daily closing price for your calculation
     - Calculate the corresponding daily return R<sub>mt</sub> for SPY for the same days.
     - Define abnormal returns as the difference AR<sub>it</sub>= R<sub>it</sub>–R<sub>mt</sub>.
-    - Calculate average daily abnormal returns for each group of stocks for all 60 reference days: AARt=1/N*ΣAR<sub>it</sub> from i=1 to N
+    - Calculate average daily abnormal returns for each group of stocks for all 60 reference days: AAR<sub>t</sub>=1/N*ΣAR<sub>it</sub> from i=1 to N
     - Cumulate the returns on the first T days to CAAR: CAAR=ΣARR<sub>t</sub>  from t=−30 to 30
     - Repeat steps a to g 30 times and then Calculate
         * Average AAR and CAAR for 30 samplings for each group
